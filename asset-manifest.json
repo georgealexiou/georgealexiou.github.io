@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/georgealexiou/georgealexiou.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/georgealexiou/georgealexiou.github.io/static/js/main.56895d64.js",
+    "static/js/787.0eaa9610.chunk.js": "/georgealexiou/georgealexiou.github.io/static/js/787.0eaa9610.chunk.js",
+    "index.html": "/georgealexiou/georgealexiou.github.io/index.html",
+    "main.073c9b0a.css.map": "/georgealexiou/georgealexiou.github.io/static/css/main.073c9b0a.css.map",
+    "main.56895d64.js.map": "/georgealexiou/georgealexiou.github.io/static/js/main.56895d64.js.map",
+    "787.0eaa9610.chunk.js.map": "/georgealexiou/georgealexiou.github.io/static/js/787.0eaa9610.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.56895d64.js"
+  ]
+}
