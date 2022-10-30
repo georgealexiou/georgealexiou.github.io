@@ -1,6 +1,9 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-import { ImPointRight } from "react-icons/im";
+import { AiFillCamera } from "react-icons/ai";
+import { ImAirplane, ImPointRight } from "react-icons/im";
+import { SiNintendoswitch } from "react-icons/si";
+import { GiForkKnifeSpoon } from "react-icons/gi";
 
 function AboutCard() {
   return (
@@ -20,20 +23,18 @@ function AboutCard() {
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <AiFillCamera /> Photography
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writting Tech Blogs
+              <SiNintendoswitch /> Video Games
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImAirplane /> Travelling
+            </li>
+            <li className="about-activity">
+              <GiForkKnifeSpoon /> Cooking
             </li>
           </ul>
-
-          <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
-          </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
         </blockquote>
       </Card.Body>
     </Card>
