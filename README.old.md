@@ -1,2 +1,0 @@
-# georgealexiou.github.io
-Demo
