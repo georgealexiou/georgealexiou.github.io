@@ -1,13 +1,14 @@
 import { Layout } from "../Layout/Layout";
 import Typewriter from "typewriter-effect";
 import { SocialBanner } from "../globals/SocialBanner/SocialBanner";
+import React from "react";
 
 export const Home: React.FC = () => {
   return (
     <Layout>
-      <div className="absolute inset-0 h-full flex items-center justify-center overflow-hidden">
+      <div className="absolute h-screen w-screen flex items-center justify-center overflow-hidden">
         <span
-          className="text-xyz text-center top-0 font-bold"
+          className="text-xyz font-bold font-mono"
           style={{
             backgroundImage:
               "linear-gradient(to right, #111111, #525252, #111111)",

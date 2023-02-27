@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       fontSize: {
-        xyz: "100vh",
+        xyz: "150vh",
       },
       letterSpacing: {
         xyz: "0.1em",

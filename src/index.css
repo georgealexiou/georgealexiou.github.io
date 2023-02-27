@@ -1,0 +1,36 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/* --------- */
+/*Scrollbar   */
+/* --------- */
+
+::-webkit-scrollbar {
+  width: 7px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background:     rgba(4, 4, 4, 0.904);
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background:     rgba(87, 87, 87, 0.904);
+  border-radius: 12px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(87, 87, 87, 0.904);
+  border-radius: 12px;
+}
+
+/* --------- */
+/*AppBar  */
+/* --------- */
+
+.blurry {
+  backdrop-filter: blur(10px);
+}

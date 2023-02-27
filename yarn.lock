@@ -3024,6 +3024,11 @@ bytes@3.1.2:
   resolved "https://registry.yarnpkg.com/bytes/-/bytes-3.1.2.tgz#8b0beeb98605adf1b128fa4386403c009e0221a5"
   integrity sha512-/Nf7TyzTx6S3yRJObOAV7956r8cr2+Oj8AC5dt8wSP3BQAoeX58NoHyCU8P8zGkNXStjTSi6fzO6F0pBdcYbEg==
 
+calendar@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/calendar/-/calendar-0.1.1.tgz#4678dbf192c516690f6cde20bb476140fd817463"
+  integrity sha512-CExn+MxSU1pCsjYiS+Cx8d1MtIZqezxRhpIu8odr1oqvYG/0C1m8lvehHxTl1FslgKbOD7Z5QuEcyk8sGgpZLQ==
+
 call-bind@^1.0.0, call-bind@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/call-bind/-/call-bind-1.0.2.tgz#b1d4e89e688119c3c9a903ad30abb2f6a919be3c"
@@ -7740,6 +7745,11 @@ react-github-calendar@^3.2.2:
   dependencies:
     react-activity-calendar "^1.7.0"
 
+react-github@^2.1.2:
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/react-github/-/react-github-2.1.2.tgz#2c1eb77ae4670f7d2dc1281e8c23168782847c0c"
+  integrity sha512-kOY+ZvM+K8U5e81zo2p23kvVSHQZdPToouuLB5cSNhQwGnTh+r2hRiUfCBLCsMiGz9pPtxBWqwUT58C8wXgwxw==
+
 react-icons@^4.3.1:
   version "4.7.1"
   resolved "https://registry.yarnpkg.com/react-icons/-/react-icons-4.7.1.tgz#0f4b25a5694e6972677cb189d2a72eabea7a8345"
@@ -8308,6 +8318,11 @@ shebang-regex@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/shebang-regex/-/shebang-regex-3.0.0.tgz#ae16f1644d873ecad843b0307b143362d4c42172"
   integrity sha512-7++dFhtcx3353uBaq8DDR4NuxBetBzC7ZQOhmTQInHEd6bSrXdiEyzCvG07Z44UYdLShWUyXt5M/yhz8ekcb1A==
+
+shebang-regex@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/shebang-regex/-/shebang-regex-4.0.0.tgz#86b8202f10d28f4da056d4b905043128b3a6a0a7"
+  integrity sha512-YSKeSljCliLkWidW84GWL1HCguI0iEqhnBOLhrVXw/fN9he9ngekCy8zqJ1jXTPYmJ3Xkf3gLuNDVHQWdRqinw==
 
 shell-quote@^1.7.3:
   version "1.8.0"
