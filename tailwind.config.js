@@ -1,16 +1,17 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./src/**/*.{html,js,tsx}"],
+  content: ['./src/**/*.{html,js,tsx}'],
   theme: {
     extend: {
       fontSize: {
-        xyz: "150vh",
+        xyz: '150vh',
+        xyzMobile: '30vh',
       },
       letterSpacing: {
-        xyz: "0.1em",
+        xyz: '0.1em',
       },
       lineHeight: {
-        xyz: "1",
+        xyz: '1',
       },
     },
   },

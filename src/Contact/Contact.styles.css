@@ -1,0 +1,26 @@
+/* CSS for desktop devices */
+@media only screen and (min-width: 768px) {
+  .container {
+    background-color: #f8f8f8;
+    padding: 50px;
+    position: relative;
+  }
+
+  .shape1,
+  .shape2 {
+    background-color: #111;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+  }
+
+  .shape1 {
+    top: 0;
+    left: 0;
+  }
+
+  .shape2 {
+    bottom: 0;
+    right: 0;
+  }
+}

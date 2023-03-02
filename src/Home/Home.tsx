@@ -8,7 +8,7 @@ export const Home: React.FC = () => {
     <Layout>
       <div className="absolute flex h-screen w-screen items-center justify-center overflow-hidden">
         <span
-          className="font-mono text-xyz font-bold"
+          className="font-mono text-xyzMobile font-bold sm:text-xyz"
           style={{
             backgroundImage: 'linear-gradient(to right, #111111, #525252, #111111)',
             WebkitBackgroundClip: 'text',
